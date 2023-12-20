@@ -9,6 +9,7 @@ https://developers.google.com/open-source/licenses/bsd
 #ifndef REFTABLE_STACK_H
 #define REFTABLE_STACK_H
 
+#include <hash-ll.h>
 #include "reftable-writer.h"
 
 /*
